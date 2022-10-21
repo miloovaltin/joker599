@@ -1,0 +1,16 @@
+{
+"name": "joker599",
+"theme": "joker599",
+"version": "2.7.2",
+"description": "joker599 ทางเข้าหลักเว็บสล็อตเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
+"keywords": [
+"joker599",
+"joker599 เครดิตฟรี",
+"joker599 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/joker599",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
